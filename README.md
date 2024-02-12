@@ -13,3 +13,25 @@
 الان کلید عمومی برای ارتباط میان دستگاه یا فرد با سرور
 و کلید خصوصی برا ارتباط میان دو دوستگاهه؟
 
+
+
+
+
+
+
+
+
+
+
+
+
+1. Write a bash script to print the current date and time.
+2. Write a script to check if a file exists in a directory.
+3. Write a script to create a directory and subdirectories.
+4. Write a script to rename files in a directory.
+5. Write a script to count the number of files in a directory.
+6. Write a script to find and replace text in a file.
+7. Write a script to check if a string is present in a file.
+8. Write a script to compress and decompress files.
+9. Write a script to automate the backup of files in a directory.
+10. Write a script to monitor disk space usage and send an discord alert when it reaches a certain threshold.
