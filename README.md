@@ -35,3 +35,26 @@
 8. Write a script to compress and decompress files.
 9. Write a script to automate the backup of files in a directory.
 10. Write a script to monitor disk space usage and send an discord alert when it reaches a certain threshold.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what is web server?
+وب سرور 
